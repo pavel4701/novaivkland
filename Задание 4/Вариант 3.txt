@@ -1,0 +1,7 @@
+x = (float(input("¬ведите x")))
+
+y = (float(input("¬ведите y")))
+
+e = int(x) + int(y)
+
+print(e)

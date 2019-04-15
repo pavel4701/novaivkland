@@ -1,0 +1,5 @@
+a = (input("Введите трехзначное число"))
+
+number = a
+
+print (number[1])

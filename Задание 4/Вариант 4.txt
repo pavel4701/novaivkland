@@ -1,0 +1,5 @@
+x = float(input("¬ведите x"))
+
+e = int(x)
+
+print(e)

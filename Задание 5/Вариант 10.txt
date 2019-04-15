@@ -1,0 +1,3 @@
+a = input("¬ведите x")
+
+print(len(a))

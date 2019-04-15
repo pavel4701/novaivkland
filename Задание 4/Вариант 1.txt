@@ -1,0 +1,9 @@
+x = (float(input("¬ведите x")))
+
+y = (float(input("¬ведите y")))
+
+z = (float(input("¬ведите z")))
+
+e = x - int(x) + y - int(y) + z - int(z)
+
+print(e)

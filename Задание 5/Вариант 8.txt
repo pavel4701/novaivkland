@@ -1,0 +1,9 @@
+a = float(input("Введите трехзначное число"))
+
+a = a - int(a)
+
+a = str(a)
+
+number = a
+
+print(number[3])
